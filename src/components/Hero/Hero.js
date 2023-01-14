@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         I am a Computer Science student at the PES University. I am passionate about software development and am currently looking for summer internship opportunities for Summer 2023.
       </SectionText>
-      <Button><a href='mailto:27krishna2002@gmail.com' style={{textDecoration: "none", color: "white"}}>Contact Me</a></Button>
+      <Button><a href='https://drive.google.com/file/d/1UkMmEp4BH_p6clHAaBZhBpc1146YnhYX/view?usp=sharing' style={{textDecoration: "none", color: "white"}}>Resume</a></Button>
     </LeftSection>
   </Section>
 );
