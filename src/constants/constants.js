@@ -17,15 +17,7 @@ export const projects = [
     source: 'https://interra-007.web.app/',
     id: 1,
   },
-  {
-    title: 'Shopping Website',
-    description:"Built the website using a products API and ReactJS. Used Redux toolkit for state management.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript', 'Redux'],
-    visit: 'https://github.com/cybraia/Shopping-website',
-    source: 'https://google.com',
-    id: 2,
-  },
+
   // {
   //   title: 'IDK yet',
   //   description:"Built the website using a products API and ReactJS. Used Redux toolkit for state management.",
